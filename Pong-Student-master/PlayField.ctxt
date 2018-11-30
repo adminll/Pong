@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PlayField
+comment1.params=
+comment1.target=PlayField()
+comment1.text=\r\n\ Sets\ the\ size\ of\ the\ world\r\n
+comment2.params=
+comment2.target=void\ initializePlayingField()
+comment2.text=\r\n\ Sets\ the\ background\ of\ the\ world\r\n\ @return\ \=\ none\r\n\ @params\ \=\ none\r\n
+comment3.params=
+comment3.target=void\ addPlayersAndObjects()
+comment3.text=\r\n\ adds\ the\ ball,\ the\ score,\ and\ paddles\ to\ the\ world\r\n\ @return\ \=\ none\r\n\ @params\ \=\ none\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ method\ for\ playfield\r\n\ @params\ \=\ none\r\n\ @return\ \=\ none\r\n
+comment5.params=
+comment5.target=void\ checkKeyPress()
+comment5.text=\r\n\ Checks\ to\ see\ if\ the\ space\ bar\ has\ been\ pressed\ to\ start\ the\ round\r\n\ @params\ \=\ none\r\n\ @return\ \=\ none\r\n
+comment6.params=
+comment6.target=void\ reset()
+comment6.text=\r\n\ resets\ the\ ball\r\n\ @perams\ \=\ none\r\n\ @return\ \=\ none\r\n
+comment7.params=
+comment7.target=void\ checkWin()
+comment7.text=\r\n\ CHecks\ whom\ has\ one\ the\ game\r\n\ @params\ \=\ none\r\n\ @return\ \=\ none\r\n
+comment8.params=
+comment8.target=boolean\ getStarted()
+comment8.text=\r\n\ Returns\ startgame\r\n\ @params\ \=\ none\r\n\ @return\ \=\ returns\ a\ boolean\r\n\ \r\n
+numComments=9

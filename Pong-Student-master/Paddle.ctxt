@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Paddle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Paddle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=isLeft
+comment1.target=Paddle(boolean)
+comment1.text=\r\n\ Creates\ the\ paddle\ and\ determines\ what\ paddle\ is\ on\ what\ side\ and\ what\ keys\ to\ use\ for\ each\r\n\ @params\ \=\ boolean\ isLeft\r\n\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Paddle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment3.text=\r\n\ Sets\ setlocaton\ to\ when\ upkey\ or\ downkey\ is\ pressed,\ updates\ the\ location/movement\ of\ the\ paddle(s)\r\n\ @params\ \=\ non\r\n\ @return\ \=\ none\r\n
+numComments=4
